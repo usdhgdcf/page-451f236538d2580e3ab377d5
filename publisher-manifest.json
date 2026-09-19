@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "6e64566e88d25076cd68f9cc",
+  "owner": "usdhgdcf",
+  "repo": "page-451f236538d2580e3ab377d5",
+  "title": "clash verge机场推荐",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "451f236538d2580e3ab377d5",
+      "a": "Exflux",
+      "b": "clash verge机场推荐",
+      "entity": "Exflux",
+      "brand": "clash verge机场推荐",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "0320bb58054cc7ae56f7018960075e7be4a9fb1515dcb8189291826c34462f28",
+      "content": {
+        "primary_entity": "Exflux",
+        "keyword1": "Exflux",
+        "keyword2": "clash verge机场推荐",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，手机、电脑与路由器可分别配置订阅。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选择套餐，完成订阅配置后即可开始使用。",
+          "AI_CLOSING_TITLE": "选择适合的套餐",
+          "AI_DESCRIPTION": "，Exflux 提供基础版、旗舰版与团队版三种订阅，月付分别为 ¥15、¥35 和 ¥85，年付为 ¥150、¥350 和 ¥850。流量从每月 100GB 到 1000GB，设备数从 3 台到 20 台，适配从个人到团队的不同需求。",
+          "AI_FEATURES_INTRO": "从流量、设备数量与订阅周期三个角度选择适合的套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 支持 3 台设备，适合单人日常浏览。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 支持 5 台设备，含 IPLC 专线与流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 支持 20 台设备，可定制路由并配专属经理。",
+          "AI_FEATURE_TITLE_1": "流量与设备",
+          "AI_FEATURE_TITLE_2": "线路与支持",
+          "AI_FEATURE_TITLE_3": "团队协作",
+          "AI_GUIDE_INTRO": "从选择服务到完成配置，三步即可开始使用 Exflux。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "Exflux 提供多档海外加速订阅，按月或按年付费，满足个人与团队的不同流量和设备需求。",
+          "AI_HERO_SUBTITLE": "多档订阅，灵活选择",
+          "AI_HIGHLIGHT_1": "三档套餐可选",
+          "AI_HIGHLIGHT_2": "支持多设备在线",
+          "AI_HIGHLIGHT_3": "年付更划算",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月，年付分别 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量和同时在线设备数，在基础版、旗舰版和团队版中做出选择。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认设备系统与客户端支持情况。",
+          "AI_STEP_TEXT_3": "按照对应客户端的订阅配置文档，导入订阅地址并完成连接。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Exflux 海外加速订阅",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备，适合手机与笔记本轻度使用，刷网页、看视频基本够用。",
+          "AI_FAQ_ANSWER_2": "旗舰版有 IPLC 专线，延迟更低，适合对游戏加速和原生流媒体解锁有要求的用户，月流量 300GB。",
+          "AI_FAQ_ANSWER_3": "常用客户端有 Clash、Shadowrocket、v2rayN 和 v2rayNG，按设备系统选择对应版本，导入订阅后即可使用。",
+          "AI_FAQ_ANSWER_4": "同时在线设备数按套餐区分，基础版 3 台、旗舰版 5 台、团队版 20 台，超出后新设备可能无法连接。",
+          "AI_FAQ_ANSWER_5": "月付按标价，年付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，适合长期使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版适合哪些使用场景？",
+          "AI_FAQ_QUESTION_2": "旗舰版的 IPLC 专线有什么用？",
+          "AI_FAQ_QUESTION_3": "各设备该装哪个客户端？",
+          "AI_FAQ_QUESTION_4": "同时在线设备数怎么算？",
+          "AI_FAQ_QUESTION_5": "月付和年付怎么选？",
+          "AI_FAQ_TITLE": "Exflux 常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "d75e50a47c00d663fbd286e8bc227036d2cbe4796de7dc47e2fbdafc45424967",
+    "sitemap.xml": "c17c0c0d539ad72408be98c89bb564d6aaf65304b3bdf914158c8c2cb9bf362d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "23a39265329b452aeb928e2579a32b9877a17b411edd5be1e94dcb409238181f"
+}
